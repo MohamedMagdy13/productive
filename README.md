@@ -1,6 +1,6 @@
 # Notes: 
-This is my alt account
-The application fully made by AI Agents
+- This is my alt account
+- The application fully made by AI Agents
 
 # Daily Productivity Tracker
 
@@ -79,5 +79,6 @@ Then visit: http://localhost:5000
 - **Database**: SQLite with better-sqlite3
 - **Desktop**: Electron for cross-platform desktop app
 - **State Management**: TanStack React Query for server state
+
 
 
